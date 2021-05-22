@@ -1,7 +1,6 @@
 .body-param
 {
     display: flex;
-    margin: 0;
-    height: 99%;
+    height: 100%;
     justify-content: center;
 }
