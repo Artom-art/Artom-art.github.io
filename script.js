@@ -18,7 +18,7 @@ var PLAYER = {
     speed: 3.5,
     img: new Image(),
     imgArr: Array,
-    imgCount: 0,
+    imgCount: 1,
     imgNumber: 1,
     checkStop: true,
 }
