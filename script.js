@@ -1,6 +1,6 @@
 var GAME = {
-    width: 1000,
-    height: 1000,
+    width: 900,
+    height: 900,
     fps: 1000 / 60,
     canvasContext: null,
     backgroundColor: "gray"
